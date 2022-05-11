@@ -2,6 +2,7 @@
 @import url("shared/variables.css");
 @import url("shared/header.css");
 @import url("shared/buttons.css");
+@import url("shared/form.css");
 
 :root {
     font-family: 'Gotham';
