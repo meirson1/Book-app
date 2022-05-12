@@ -3,6 +3,8 @@
 @import url("shared/header.css");
 @import url("shared/buttons.css");
 @import url("shared/form.css");
+@import url("shared/author.css");
+@import url("shared/book.css");
 
 :root {
     font-family: 'Gotham';
@@ -33,4 +35,8 @@ body{
 .page-header{
     font-size: 2rem;
     font-weight: 500;
+}
+
+.error-message{
+    color: hsl(var(--color-danger-hue),100%,50%);
 }
